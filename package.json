@@ -1,0 +1,9 @@
+{
+  "name": "dayjs-week-start-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
